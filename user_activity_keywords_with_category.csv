@@ -1,0 +1,3001 @@
+user_id,activity,ad_keywords,category
+557,0,cookbook,books
+620,1,power bank,tech_gadgets
+379,1,power bank,tech_gadgets
+379,0,tent,sports_outdoors
+143,0,building blocks,toys_games
+894,0,dress,clothing
+875,0,cookbook,books
+404,0,wireless speaker,tech_gadgets
+948,1,perfume,health_beauty
+650,0,lamp,home_decor
+537,1,grain,food
+295,0,skateboard,sports_outdoors
+91,0,shoes,clothing
+990,1,robot vacuum,tech_gadgets
+215,1,VR headset,tech_gadgets
+918,1,skincare,health_beauty
+788,1,hiking shoes,sports_outdoors
+169,0,lamp,home_decor
+310,1,tablet,electronics
+746,0,skincare,health_beauty
+277,1,tablet,electronics
+146,0,charger,electronics
+91,1,skincare,health_beauty
+756,1,novel,books
+143,1,fishing rod,sports_outdoors
+233,0,gaming console,electronics
+31,1,juice,food
+554,1,puzzle,toys_games
+716,0,lamp,home_decor
+91,0,flight,travel
+814,0,board game,toys_games
+83,1,scarf,clothing
+335,1,hiking shoes,sports_outdoors
+990,0,novel,books
+751,1,history,books
+925,1,lamp,home_decor
+716,0,action figure,toys_games
+792,0,rental car,travel
+335,0,hotel,travel
+339,1,flight,travel
+452,1,remote control car,toys_games
+554,1,dress,clothing
+612,0,printer,tech_gadgets
+905,1,yoga mat,health_beauty
+360,0,hair dryer,health_beauty
+731,1,robot vacuum,tech_gadgets
+22,0,fiction,books
+499,0,building blocks,toys_games
+606,0,safari,travel
+678,1,skincare,health_beauty
+164,0,skateboard,sports_outdoors
+760,1,socks,clothing
+984,0,rental car,travel
+833,1,coffee,food
+800,0,drone,tech_gadgets
+309,1,hotel,travel
+989,0,grain,food
+677,1,card game,toys_games
+711,0,olive oil,food
+31,0,remote control car,toys_games
+958,1,snacks,food
+118,1,scarf,clothing
+353,1,jeans,clothing
+22,1,doll,toys_games
+958,1,drone,tech_gadgets
+65,1,headphones,electronics
+756,0,hotel,travel
+135,1,history,books
+164,0,headphones,electronics
+431,1,cruise,travel
+182,0,drone,tech_gadgets
+417,1,tablet,electronics
+98,0,grain,food
+182,1,card game,toys_games
+867,0,biography,books
+238,1,VR headset,tech_gadgets
+677,0,cruise,travel
+256,0,t-shirt,clothing
+164,1,camera,electronics
+602,1,chocolate,food
+975,1,chocolate,food
+727,0,printer,tech_gadgets
+350,1,sweater,clothing
+875,0,painting,home_decor
+975,0,tea,food
+143,0,tent,sports_outdoors
+22,1,coffee,food
+94,0,snacks,food
+402,1,chocolate,food
+77,1,travel insurance,travel
+388,0,rental car,travel
+605,0,scarf,clothing
+722,1,flight,travel
+557,0,safari,travel
+11,1,hotel,travel
+888,0,camera,electronics
+988,0,novel,books
+378,0,dress,clothing
+565,0,building blocks,toys_games
+516,0,razor,health_beauty
+554,0,cruise,travel
+79,1,travel insurance,travel
+931,0,robot vacuum,tech_gadgets
+182,0,coffee,food
+516,1,sweater,clothing
+975,0,board game,toys_games
+775,1,chocolate,food
+814,0,card game,toys_games
+129,0,juice,food
+760,0,bike,sports_outdoors
+786,0,gaming console,electronics
+323,0,history,books
+817,0,lamp,home_decor
+466,0,perfume,health_beauty
+890,0,board game,toys_games
+129,0,bike,sports_outdoors
+986,0,self-help,books
+79,0,biography,books
+875,1,printer,tech_gadgets
+416,0,furniture,home_decor
+502,1,bike,sports_outdoors
+402,0,fishing rod,sports_outdoors
+778,1,travel insurance,travel
+722,0,fiction,books
+537,0,fishing rod,sports_outdoors
+79,0,building blocks,toys_games
+899,1,hair dryer,health_beauty
+271,1,mirror,home_decor
+722,0,tour,travel
+620,0,plush toy,toys_games
+567,0,sweater,clothing
+899,0,hotel,travel
+794,1,hiking shoes,sports_outdoors
+666,0,wearable,electronics
+98,0,backpack,sports_outdoors
+621,0,dress,clothing
+307,0,printer,tech_gadgets
+627,0,binoculars,sports_outdoors
+650,1,furniture,home_decor
+963,1,hiking shoes,sports_outdoors
+378,1,vitamins,health_beauty
+814,1,wireless speaker,tech_gadgets
+537,1,action figure,toys_games
+11,1,plush toy,toys_games
+11,1,puzzle,toys_games
+605,1,backpacker hostel,travel
+539,0,smartphone,electronics
+972,0,wine,food
+48,1,sweater,clothing
+8,0,flight,travel
+243,0,lamp,home_decor
+238,0,children's book,books
+711,1,skateboard,sports_outdoors
+810,0,binoculars,sports_outdoors
+509,1,self-help,books
+411,1,jeans,clothing
+139,0,tent,sports_outdoors
+220,1,tour,travel
+527,1,scarf,clothing
+271,1,mirror,home_decor
+243,1,wine,food
+808,0,tea,food
+808,1,poetry,books
+466,1,wine,food
+243,0,kayak,sports_outdoors
+902,1,t-shirt,clothing
+243,1,wine,food
+243,1,doll,toys_games
+388,1,juice,food
+645,0,robot vacuum,tech_gadgets
+943,1,tent,sports_outdoors
+335,1,doll,toys_games
+792,0,cookbook,books
+568,0,vitamins,health_beauty
+31,1,chocolate,food
+650,0,backpacker hostel,travel
+262,0,wireless speaker,tech_gadgets
+736,0,fishing rod,sports_outdoors
+91,0,backpack,sports_outdoors
+162,0,card game,toys_games
+335,1,VR headset,tech_gadgets
+135,1,tent,sports_outdoors
+91,0,board game,toys_games
+479,1,novel,books
+678,0,board game,toys_games
+182,1,mirror,home_decor
+335,0,t-shirt,clothing
+79,0,backpacker hostel,travel
+216,0,headphones,electronics
+203,0,power bank,tech_gadgets
+22,1,printer,tech_gadgets
+196,1,puzzle,toys_games
+899,0,vase,home_decor
+167,0,children's book,books
+988,1,cruise,travel
+242,0,charger,electronics
+605,0,cushion,home_decor
+600,0,novel,books
+722,0,board game,toys_games
+910,0,tour,travel
+615,0,laptop,electronics
+535,1,jeans,clothing
+91,1,tent,sports_outdoors
+79,0,coffee,food
+31,0,history,books
+836,1,fiction,books
+314,1,bike,sports_outdoors
+698,0,tour,travel
+986,1,scarf,clothing
+336,0,smartwatch,tech_gadgets
+620,0,laptop,electronics
+79,0,kayak,sports_outdoors
+272,1,puzzle,toys_games
+899,0,smartphone,electronics
+243,1,travel insurance,travel
+472,1,coffee,food
+310,1,printer,tech_gadgets
+378,0,dress,clothing
+568,0,tent,sports_outdoors
+620,0,clock,home_decor
+69,0,painting,home_decor
+602,1,board game,toys_games
+31,0,bike,sports_outdoors
+478,1,gaming console,electronics
+251,1,coffee,food
+722,0,charger,electronics
+775,1,bike,sports_outdoors
+267,1,action figure,toys_games
+560,0,smartphone,electronics
+910,1,dress,clothing
+872,1,fishing rod,sports_outdoors
+592,1,fiction,books
+252,1,smartwatch,tech_gadgets
+309,0,travel insurance,travel
+804,1,tea,food
+79,0,board game,toys_games
+378,1,history,books
+399,1,wearable,electronics
+709,1,children's book,books
+943,1,board game,toys_games
+243,1,skateboard,sports_outdoors
+579,1,card game,toys_games
+722,1,cushion,home_decor
+275,0,clock,home_decor
+491,0,hiking shoes,sports_outdoors
+904,0,VR headset,tech_gadgets
+875,1,gaming console,electronics
+878,0,vase,home_decor
+83,0,hair dryer,health_beauty
+947,1,tent,sports_outdoors
+262,1,coffee,food
+716,1,painting,home_decor
+8,0,headphones,electronics
+216,0,kayak,sports_outdoors
+899,0,wireless speaker,tech_gadgets
+27,1,snacks,food
+804,0,chocolate,food
+872,1,furniture,home_decor
+120,1,cruise,travel
+600,1,hotel,travel
+182,1,bike,sports_outdoors
+772,1,wireless speaker,tech_gadgets
+240,1,printer,tech_gadgets
+164,0,makeup,health_beauty
+899,1,poetry,books
+853,1,mirror,home_decor
+796,1,printer,tech_gadgets
+268,0,yoga mat,health_beauty
+746,0,doll,toys_games
+182,1,painting,home_decor
+931,0,coffee,food
+60,0,smartphone,electronics
+810,1,painting,home_decor
+27,0,lamp,home_decor
+336,1,olive oil,food
+399,1,doll,toys_games
+28,1,bike,sports_outdoors
+238,0,novel,books
+958,1,tablet,electronics
+833,0,binoculars,sports_outdoors
+605,0,chocolate,food
+167,0,building blocks,toys_games
+845,1,snacks,food
+902,1,headphones,electronics
+182,1,plush toy,toys_games
+402,1,rug,home_decor
+182,1,vase,home_decor
+910,0,chocolate,food
+77,0,action figure,toys_games
+998,1,hiking shoes,sports_outdoors
+931,1,children's book,books
+753,0,binoculars,sports_outdoors
+645,0,GPS tracker,tech_gadgets
+350,0,rental car,travel
+118,1,mirror,home_decor
+700,0,vase,home_decor
+867,0,wireless speaker,tech_gadgets
+77,1,yoga mat,health_beauty
+722,0,hiking shoes,sports_outdoors
+990,1,gaming console,electronics
+60,0,travel insurance,travel
+435,1,tea,food
+164,0,wine,food
+519,0,power bank,tech_gadgets
+605,0,hotel,travel
+153,1,building blocks,toys_games
+393,0,doll,toys_games
+929,1,olive oil,food
+579,0,shoes,clothing
+268,0,sweater,clothing
+682,0,flight,travel
+11,0,smartwatch,tech_gadgets
+698,0,fishing rod,sports_outdoors
+58,0,printer,tech_gadgets
+990,1,camera,electronics
+79,1,camera,electronics
+554,1,tea,food
+943,1,furniture,home_decor
+867,1,lamp,home_decor
+79,0,history,books
+143,0,headphones,electronics
+227,0,poetry,books
+199,1,hair dryer,health_beauty
+402,0,camera,electronics
+796,1,olive oil,food
+814,0,fiction,books
+831,0,rental car,travel
+869,1,tent,sports_outdoors
+98,0,fishing rod,sports_outdoors
+592,1,shoes,clothing
+627,0,olive oil,food
+620,1,GPS tracker,tech_gadgets
+404,0,laptop,electronics
+537,1,smartwatch,tech_gadgets
+69,1,socks,clothing
+399,1,t-shirt,clothing
+393,1,vase,home_decor
+958,1,action figure,toys_games
+342,0,laptop,electronics
+260,0,skateboard,sports_outdoors
+566,0,wine,food
+990,1,robot vacuum,tech_gadgets
+440,1,juice,food
+958,1,socks,clothing
+905,0,robot vacuum,tech_gadgets
+628,0,card game,toys_games
+568,1,GPS tracker,tech_gadgets
+232,1,wireless speaker,tech_gadgets
+399,1,fiction,books
+736,0,biography,books
+451,1,charger,electronics
+722,1,painting,home_decor
+440,1,bike,sports_outdoors
+956,1,board game,toys_games
+845,0,tour,travel
+262,1,razor,health_beauty
+535,1,scarf,clothing
+483,0,tent,sports_outdoors
+792,0,hiking shoes,sports_outdoors
+875,1,headphones,electronics
+441,1,remote control car,toys_games
+989,0,VR headset,tech_gadgets
+435,0,headphones,electronics
+810,0,tent,sports_outdoors
+554,0,doll,toys_games
+440,0,olive oil,food
+129,0,fiction,books
+481,1,drone,tech_gadgets
+60,0,laptop,electronics
+628,0,chocolate,food
+869,0,vase,home_decor
+399,0,socks,clothing
+399,0,spices,food
+755,1,drone,tech_gadgets
+746,1,skateboard,sports_outdoors
+271,1,self-help,books
+479,0,makeup,health_beauty
+836,1,travel insurance,travel
+220,1,skateboard,sports_outdoors
+929,1,juice,food
+118,1,spices,food
+238,1,puzzle,toys_games
+905,0,headphones,electronics
+447,1,vase,home_decor
+810,1,safari,travel
+94,0,biography,books
+537,1,fiction,books
+867,0,action figure,toys_games
+539,1,sweater,clothing
+648,0,chocolate,food
+831,0,action figure,toys_games
+792,1,perfume,health_beauty
+890,0,wireless speaker,tech_gadgets
+182,1,tour,travel
+899,0,backpack,sports_outdoors
+478,1,clock,home_decor
+290,1,poetry,books
+295,0,headphones,electronics
+79,1,safari,travel
+11,0,self-help,books
+851,1,power bank,tech_gadgets
+650,0,mirror,home_decor
+602,0,wearable,electronics
+11,1,smartphone,electronics
+645,0,remote control car,toys_games
+510,1,binoculars,sports_outdoors
+28,0,perfume,health_beauty
+689,1,laptop,electronics
+58,0,kayak,sports_outdoors
+904,1,doll,toys_games
+335,0,shoes,clothing
+268,1,flight,travel
+22,1,gaming console,electronics
+94,0,novel,books
+251,0,smartwatch,tech_gadgets
+716,1,binoculars,sports_outdoors
+605,1,juice,food
+35,1,juice,food
+867,1,robot vacuum,tech_gadgets
+166,0,printer,tech_gadgets
+998,0,tour,travel
+242,1,hotel,travel
+243,0,rental car,travel
+645,1,smartwatch,tech_gadgets
+682,0,lamp,home_decor
+848,0,novel,books
+202,0,skincare,health_beauty
+238,1,rental car,travel
+153,0,hotel,travel
+441,0,hair dryer,health_beauty
+644,1,robot vacuum,tech_gadgets
+722,0,doll,toys_games
+772,0,bike,sports_outdoors
+8,0,perfume,health_beauty
+94,0,cushion,home_decor
+875,0,clock,home_decor
+11,1,biography,books
+938,0,wearable,electronics
+775,1,travel insurance,travel
+990,1,flight,travel
+310,0,flight,travel
+943,1,charger,electronics
+344,0,self-help,books
+810,0,shoes,clothing
+272,1,jacket,clothing
+745,1,doll,toys_games
+143,1,jacket,clothing
+646,1,sweater,clothing
+605,0,flight,travel
+129,1,backpack,sports_outdoors
+143,0,socks,clothing
+537,1,razor,health_beauty
+992,1,poetry,books
+837,1,vitamins,health_beauty
+910,1,backpacker hostel,travel
+699,0,skateboard,sports_outdoors
+159,1,tablet,electronics
+353,0,tablet,electronics
+260,0,jacket,clothing
+98,1,camera,electronics
+678,1,action figure,toys_games
+516,1,hiking shoes,sports_outdoors
+469,1,novel,books
+814,0,drone,tech_gadgets
+60,0,drone,tech_gadgets
+79,1,kayak,sports_outdoors
+615,0,kayak,sports_outdoors
+591,1,hiking shoes,sports_outdoors
+731,1,skateboard,sports_outdoors
+474,1,rug,home_decor
+491,1,jeans,clothing
+314,0,printer,tech_gadgets
+335,1,coffee,food
+875,0,gaming console,electronics
+786,1,novel,books
+111,0,tent,sports_outdoors
+230,0,jacket,clothing
+591,1,laptop,electronics
+74,1,snacks,food
+620,0,binoculars,sports_outdoors
+914,0,toothbrush,health_beauty
+36,0,card game,toys_games
+659,1,hotel,travel
+958,0,kayak,sports_outdoors
+440,0,smartwatch,tech_gadgets
+510,1,fishing rod,sports_outdoors
+722,1,scarf,clothing
+910,0,clock,home_decor
+398,0,spices,food
+516,0,poetry,books
+554,1,perfume,health_beauty
+143,1,tent,sports_outdoors
+118,1,hiking shoes,sports_outdoors
+796,1,furniture,home_decor
+164,0,spices,food
+481,1,charger,electronics
+620,1,binoculars,sports_outdoors
+243,1,power bank,tech_gadgets
+621,1,headphones,electronics
+31,1,makeup,health_beauty
+77,0,laptop,electronics
+143,1,yoga mat,health_beauty
+445,1,hiking shoes,sports_outdoors
+775,1,olive oil,food
+839,0,hair dryer,health_beauty
+803,0,tea,food
+272,1,biography,books
+722,1,tablet,electronics
+727,1,painting,home_decor
+899,1,hotel,travel
+243,0,doll,toys_games
+491,1,remote control car,toys_games
+984,0,remote control car,toys_games
+817,1,remote control car,toys_games
+645,0,novel,books
+786,1,puzzle,toys_games
+11,1,painting,home_decor
+134,0,charger,electronics
+252,1,jacket,clothing
+94,0,laptop,electronics
+272,1,makeup,health_beauty
+60,0,robot vacuum,tech_gadgets
+28,0,plush toy,toys_games
+393,1,sweater,clothing
+943,1,robot vacuum,tech_gadgets
+441,1,cushion,home_decor
+786,1,toothbrush,health_beauty
+600,0,VR headset,tech_gadgets
+36,1,binoculars,sports_outdoors
+709,0,novel,books
+867,0,smartwatch,tech_gadgets
+314,1,jeans,clothing
+836,0,cushion,home_decor
+810,1,drone,tech_gadgets
+858,1,sweater,clothing
+848,1,chocolate,food
+510,1,flight,travel
+943,1,shoes,clothing
+778,1,cookbook,books
+760,0,drone,tech_gadgets
+79,0,hiking shoes,sports_outdoors
+31,1,fishing rod,sports_outdoors
+5,0,snacks,food
+989,0,board game,toys_games
+443,1,printer,tech_gadgets
+555,1,hiking shoes,sports_outdoors
+5,1,juice,food
+537,1,backpack,sports_outdoors
+711,0,laptop,electronics
+399,1,power bank,tech_gadgets
+335,0,socks,clothing
+746,0,plush toy,toys_games
+117,0,tour,travel
+111,0,hair dryer,health_beauty
+8,1,VR headset,tech_gadgets
+737,1,mirror,home_decor
+118,1,jeans,clothing
+873,1,coffee,food
+659,1,history,books
+182,1,vase,home_decor
+135,0,board game,toys_games
+984,0,skateboard,sports_outdoors
+796,0,scarf,clothing
+502,1,building blocks,toys_games
+990,0,fiction,books
+152,1,binoculars,sports_outdoors
+709,1,vitamins,health_beauty
+202,0,drone,tech_gadgets
+527,0,board game,toys_games
+722,1,skateboard,sports_outdoors
+447,1,perfume,health_beauty
+554,0,charger,electronics
+77,0,clock,home_decor
+627,1,travel insurance,travel
+91,1,painting,home_decor
+852,1,tour,travel
+984,1,skateboard,sports_outdoors
+182,1,socks,clothing
+129,0,card game,toys_games
+94,0,yoga mat,health_beauty
+786,0,bike,sports_outdoors
+143,0,tent,sports_outdoors
+990,0,bike,sports_outdoors
+360,0,travel insurance,travel
+48,1,puzzle,toys_games
+203,1,cookbook,books
+153,0,poetry,books
+527,1,children's book,books
+837,0,smartphone,electronics
+875,1,headphones,electronics
+875,1,GPS tracker,tech_gadgets
+648,1,wireless speaker,tech_gadgets
+600,0,furniture,home_decor
+310,0,t-shirt,clothing
+899,0,snacks,food
+990,1,wireless speaker,tech_gadgets
+398,1,hiking shoes,sports_outdoors
+431,0,scarf,clothing
+267,1,robot vacuum,tech_gadgets
+500,0,vase,home_decor
+620,1,backpack,sports_outdoors
+398,1,tent,sports_outdoors
+925,0,poetry,books
+481,0,backpack,sports_outdoors
+60,0,socks,clothing
+91,1,drone,tech_gadgets
+129,0,scarf,clothing
+199,1,power bank,tech_gadgets
+746,0,camera,electronics
+94,0,safari,travel
+182,0,safari,travel
+466,0,lamp,home_decor
+388,0,card game,toys_games
+554,0,cookbook,books
+608,0,jacket,clothing
+440,0,plush toy,toys_games
+303,1,headphones,electronics
+650,0,vitamins,health_beauty
+837,0,tour,travel
+363,0,vitamins,health_beauty
+988,0,smartphone,electronics
+291,0,wearable,electronics
+243,0,razor,health_beauty
+399,0,backpacker hostel,travel
+267,1,mirror,home_decor
+786,1,fishing rod,sports_outdoors
+786,1,camera,electronics
+804,0,furniture,home_decor
+243,0,fishing rod,sports_outdoors
+848,1,plush toy,toys_games
+757,0,scarf,clothing
+267,1,board game,toys_games
+677,0,cushion,home_decor
+793,0,hair dryer,health_beauty
+775,0,coffee,food
+309,0,VR headset,tech_gadgets
+711,0,vitamins,health_beauty
+722,0,doll,toys_games
+79,0,tablet,electronics
+267,0,children's book,books
+705,1,doll,toys_games
+481,1,spices,food
+408,0,self-help,books
+910,1,chocolate,food
+958,1,GPS tracker,tech_gadgets
+483,0,card game,toys_games
+869,0,hair dryer,health_beauty
+568,0,sweater,clothing
+31,1,jeans,clothing
+746,0,toothbrush,health_beauty
+924,0,camera,electronics
+335,1,skincare,health_beauty
+663,0,doll,toys_games
+143,0,snacks,food
+848,1,bike,sports_outdoors
+335,1,tent,sports_outdoors
+757,1,wireless speaker,tech_gadgets
+271,0,plush toy,toys_games
+867,1,coffee,food
+59,0,tablet,electronics
+94,1,gaming console,electronics
+636,0,tea,food
+363,1,t-shirt,clothing
+59,0,fiction,books
+817,0,dress,clothing
+849,0,cushion,home_decor
+129,0,dress,clothing
+344,1,GPS tracker,tech_gadgets
+711,0,lamp,home_decor
+11,1,history,books
+323,0,binoculars,sports_outdoors
+307,1,coffee,food
+792,1,fiction,books
+620,0,rental car,travel
+796,1,backpacker hostel,travel
+79,0,hotel,travel
+441,1,cushion,home_decor
+5,0,travel insurance,travel
+875,1,binoculars,sports_outdoors
+537,0,tea,food
+714,0,clock,home_decor
+757,1,scarf,clothing
+878,1,skateboard,sports_outdoors
+58,0,gaming console,electronics
+644,0,snacks,food
+597,0,backpack,sports_outdoors
+869,1,juice,food
+79,0,action figure,toys_games
+243,1,scarf,clothing
+466,0,board game,toys_games
+466,0,juice,food
+605,1,self-help,books
+910,1,backpacker hostel,travel
+91,0,razor,health_beauty
+117,0,headphones,electronics
+272,1,action figure,toys_games
+678,0,headphones,electronics
+303,1,bike,sports_outdoors
+79,0,dress,clothing
+271,1,makeup,health_beauty
+243,0,cushion,home_decor
+135,0,tour,travel
+448,1,cruise,travel
+141,1,plush toy,toys_games
+95,0,children's book,books
+620,0,dress,clothing
+363,1,tent,sports_outdoors
+397,0,fiction,books
+403,1,fishing rod,sports_outdoors
+714,1,robot vacuum,tech_gadgets
+77,0,flight,travel
+393,1,cookbook,books
+339,1,poetry,books
+869,1,charger,electronics
+164,1,kayak,sports_outdoors
+127,1,fishing rod,sports_outdoors
+252,1,novel,books
+448,1,clock,home_decor
+79,0,action figure,toys_games
+648,1,fishing rod,sports_outdoors
+118,0,shoes,clothing
+600,1,scarf,clothing
+291,0,shoes,clothing
+867,1,bike,sports_outdoors
+848,0,jeans,clothing
+77,1,hair dryer,health_beauty
+650,1,plush toy,toys_games
+753,1,remote control car,toys_games
+256,1,card game,toys_games
+267,0,skateboard,sports_outdoors
+910,1,kayak,sports_outdoors
+612,0,shoes,clothing
+554,0,socks,clothing
+317,0,self-help,books
+918,0,smartwatch,tech_gadgets
+645,1,jeans,clothing
+713,1,board game,toys_games
+612,1,biography,books
+487,0,olive oil,food
+445,1,tour,travel
+8,1,puzzle,toys_games
+11,1,makeup,health_beauty
+60,1,backpack,sports_outdoors
+268,1,tour,travel
+837,0,skincare,health_beauty
+645,1,action figure,toys_games
+528,0,shoes,clothing
+848,0,travel insurance,travel
+38,0,fiction,books
+615,1,binoculars,sports_outdoors
+705,0,power bank,tech_gadgets
+403,0,shoes,clothing
+221,1,rug,home_decor
+129,1,t-shirt,clothing
+216,1,hiking shoes,sports_outdoors
+502,1,t-shirt,clothing
+792,1,card game,toys_games
+162,1,smartwatch,tech_gadgets
+890,0,printer,tech_gadgets
+234,1,socks,clothing
+143,1,safari,travel
+141,0,GPS tracker,tech_gadgets
+143,0,scarf,clothing
+5,0,makeup,health_beauty
+398,1,razor,health_beauty
+83,0,yoga mat,health_beauty
+537,0,jeans,clothing
+537,0,drone,tech_gadgets
+339,0,razor,health_beauty
+129,1,socks,clothing
+234,0,cruise,travel
+650,1,travel insurance,travel
+810,0,juice,food
+875,0,tent,sports_outdoors
+990,1,jacket,clothing
+565,1,flight,travel
+314,0,camera,electronics
+11,0,card game,toys_games
+203,1,doll,toys_games
+869,1,spices,food
+677,1,children's book,books
+291,1,makeup,health_beauty
+621,1,remote control car,toys_games
+650,1,lamp,home_decor
+443,1,perfume,health_beauty
+230,1,toothbrush,health_beauty
+341,1,socks,clothing
+663,1,charger,electronics
+984,0,backpack,sports_outdoors
+902,0,socks,clothing
+554,1,snacks,food
+554,0,gaming console,electronics
+202,1,charger,electronics
+999,0,skincare,health_beauty
+912,1,wireless speaker,tech_gadgets
+8,1,mirror,home_decor
+786,0,fishing rod,sports_outdoors
+753,0,binoculars,sports_outdoors
+852,1,dress,clothing
+796,1,plush toy,toys_games
+592,1,snacks,food
+30,0,cookbook,books
+247,0,backpack,sports_outdoors
+510,0,sweater,clothing
+628,1,cookbook,books
+342,1,smartwatch,tech_gadgets
+143,0,cushion,home_decor
+898,0,painting,home_decor
+810,1,cruise,travel
+391,0,skateboard,sports_outdoors
+910,0,fishing rod,sports_outdoors
+268,0,printer,tech_gadgets
+943,1,juice,food
+645,1,flight,travel
+143,0,smartwatch,tech_gadgets
+722,0,coffee,food
+948,0,perfume,health_beauty
+435,0,makeup,health_beauty
+904,0,novel,books
+451,1,vase,home_decor
+535,1,poetry,books
+890,1,lamp,home_decor
+663,1,bike,sports_outdoors
+761,0,spices,food
+554,1,cushion,home_decor
+256,0,snacks,food
+848,0,charger,electronics
+565,0,chocolate,food
+94,0,yoga mat,health_beauty
+404,1,sweater,clothing
+500,0,cookbook,books
+471,0,jacket,clothing
+966,0,vase,home_decor
+251,0,vase,home_decor
+943,0,furniture,home_decor
+688,0,socks,clothing
+38,0,headphones,electronics
+831,1,sweater,clothing
+644,0,snacks,food
+335,0,sweater,clothing
+402,1,history,books
+25,1,yoga mat,health_beauty
+792,1,furniture,home_decor
+265,0,coffee,food
+975,0,coffee,food
+739,0,tour,travel
+810,0,vitamins,health_beauty
+837,0,bike,sports_outdoors
+868,1,socks,clothing
+379,1,building blocks,toys_games
+481,0,shoes,clothing
+220,1,biography,books
+713,1,tent,sports_outdoors
+554,1,children's book,books
+397,0,mirror,home_decor
+999,1,travel insurance,travel
+335,1,coffee,food
+439,1,rental car,travel
+943,1,safari,travel
+72,1,t-shirt,clothing
+481,1,jacket,clothing
+626,1,scarf,clothing
+722,0,cookbook,books
+388,1,skincare,health_beauty
+118,0,t-shirt,clothing
+705,0,wine,food
+272,1,plush toy,toys_games
+839,0,building blocks,toys_games
+118,1,board game,toys_games
+910,0,novel,books
+310,1,history,books
+61,0,lamp,home_decor
+869,0,charger,electronics
+499,0,history,books
+79,0,cookbook,books
+515,1,tea,food
+310,1,flight,travel
+858,1,cruise,travel
+451,0,tour,travel
+314,1,chocolate,food
+602,0,poetry,books
+845,1,flight,travel
+445,0,toothbrush,health_beauty
+353,1,puzzle,toys_games
+600,0,hair dryer,health_beauty
+268,1,smartwatch,tech_gadgets
+722,0,action figure,toys_games
+391,1,wine,food
+931,1,tablet,electronics
+143,0,binoculars,sports_outdoors
+620,1,razor,health_beauty
+60,0,yoga mat,health_beauty
+355,0,wine,food
+313,0,laptop,electronics
+878,1,sweater,clothing
+11,0,t-shirt,clothing
+648,1,bike,sports_outdoors
+11,0,spices,food
+471,1,skincare,health_beauty
+170,1,tea,food
+685,1,gaming console,electronics
+527,1,juice,food
+317,1,rug,home_decor
+722,0,charger,electronics
+527,1,painting,home_decor
+848,0,VR headset,tech_gadgets
+67,1,coffee,food
+665,1,coffee,food
+537,0,card game,toys_games
+341,1,rug,home_decor
+378,0,remote control car,toys_games
+215,0,jeans,clothing
+481,0,hotel,travel
+793,1,skateboard,sports_outdoors
+786,0,doll,toys_games
+60,0,perfume,health_beauty
+143,1,jacket,clothing
+159,1,razor,health_beauty
+746,1,wearable,electronics
+339,1,wine,food
+452,0,hiking shoes,sports_outdoors
+143,0,remote control car,toys_games
+910,1,backpacker hostel,travel
+77,1,VR headset,tech_gadgets
+714,0,vase,home_decor
+848,0,t-shirt,clothing
+378,1,vase,home_decor
+869,1,olive oil,food
+8,1,wine,food
+215,1,hiking shoes,sports_outdoors
+722,0,tour,travel
+27,1,scarf,clothing
+216,1,fishing rod,sports_outdoors
+135,0,spices,food
+60,0,gaming console,electronics
+554,0,rug,home_decor
+648,0,cruise,travel
+262,0,remote control car,toys_games
+554,0,hair dryer,health_beauty
+482,1,headphones,electronics
+621,1,skincare,health_beauty
+568,0,plush toy,toys_games
+382,1,sweater,clothing
+990,0,hotel,travel
+628,1,bike,sports_outdoors
+11,0,robot vacuum,tech_gadgets
+323,1,plush toy,toys_games
+537,0,building blocks,toys_games
+79,1,perfume,health_beauty
+990,0,board game,toys_games
+803,0,tent,sports_outdoors
+746,0,headphones,electronics
+404,1,cookbook,books
+868,0,poetry,books
+890,1,skateboard,sports_outdoors
+8,1,novel,books
+943,0,tent,sports_outdoors
+890,0,vitamins,health_beauty
+605,0,spices,food
+867,0,plush toy,toys_games
+557,1,scarf,clothing
+252,0,camera,electronics
+700,0,razor,health_beauty
+812,0,GPS tracker,tech_gadgets
+958,0,wine,food
+77,0,travel insurance,travel
+404,0,camera,electronics
+554,1,puzzle,toys_games
+143,0,mirror,home_decor
+516,1,biography,books
+404,0,backpack,sports_outdoors
+79,1,mirror,home_decor
+182,0,jeans,clothing
+182,1,rug,home_decor
+8,1,kayak,sports_outdoors
+650,0,razor,health_beauty
+500,1,shoes,clothing
+59,0,snacks,food
+875,0,wine,food
+154,1,drone,tech_gadgets
+812,0,wine,food
+68,0,plush toy,toys_games
+135,1,camera,electronics
+958,1,GPS tracker,tech_gadgets
+722,1,hotel,travel
+59,1,vitamins,health_beauty
+272,1,kayak,sports_outdoors
+190,1,scarf,clothing
+537,0,snacks,food
+648,1,socks,clothing
+378,1,razor,health_beauty
+399,1,remote control car,toys_games
+350,1,vitamins,health_beauty
+602,1,coffee,food
+899,1,remote control car,toys_games
+990,0,power bank,tech_gadgets
+948,1,t-shirt,clothing
+481,1,fishing rod,sports_outdoors
+143,1,headphones,electronics
+366,1,dress,clothing
+215,1,printer,tech_gadgets
+645,0,plush toy,toys_games
+399,0,wireless speaker,tech_gadgets
+827,0,board game,toys_games
+252,0,wearable,electronics
+98,1,socks,clothing
+539,1,action figure,toys_games
+848,1,puzzle,toys_games
+238,0,fishing rod,sports_outdoors
+528,1,lamp,home_decor
+388,1,power bank,tech_gadgets
+567,1,toothbrush,health_beauty
+143,1,cruise,travel
+848,1,action figure,toys_games
+404,0,fishing rod,sports_outdoors
+810,1,bike,sports_outdoors
+8,0,VR headset,tech_gadgets
+812,0,wearable,electronics
+135,0,yoga mat,health_beauty
+94,0,remote control car,toys_games
+363,0,makeup,health_beauty
+516,1,smartwatch,tech_gadgets
+786,1,headphones,electronics
+95,1,robot vacuum,tech_gadgets
+890,0,tour,travel
+243,0,clock,home_decor
+557,0,perfume,health_beauty
+645,1,rug,home_decor
+492,0,hotel,travel
+910,1,tour,travel
+79,1,smartwatch,tech_gadgets
+915,1,novel,books
+568,1,card game,toys_games
+344,1,flight,travel
+799,0,poetry,books
+399,0,hair dryer,health_beauty
+786,0,biography,books
+435,1,board game,toys_games
+407,0,headphones,electronics
+722,0,smartwatch,tech_gadgets
+182,0,novel,books
+867,1,jacket,clothing
+317,0,cookbook,books
+605,0,razor,health_beauty
+709,0,skateboard,sports_outdoors
+680,1,puzzle,toys_games
+129,1,printer,tech_gadgets
+493,1,skateboard,sports_outdoors
+875,0,chocolate,food
+260,0,sweater,clothing
+659,0,razor,health_beauty
+399,1,smartwatch,tech_gadgets
+722,1,jacket,clothing
+98,0,action figure,toys_games
+597,1,coffee,food
+466,1,cushion,home_decor
+344,0,smartphone,electronics
+156,0,juice,food
+746,0,spices,food
+319,0,children's book,books
+705,1,wine,food
+817,1,skincare,health_beauty
+515,0,hiking shoes,sports_outdoors
+788,1,smartphone,electronics
+627,1,backpack,sports_outdoors
+492,0,socks,clothing
+339,0,robot vacuum,tech_gadgets
+910,1,tent,sports_outdoors
+101,1,t-shirt,clothing
+845,1,drone,tech_gadgets
+910,0,tour,travel
+869,0,rug,home_decor
+510,1,dress,clothing
+271,0,building blocks,toys_games
+792,1,drone,tech_gadgets
+620,0,binoculars,sports_outdoors
+803,0,perfume,health_beauty
+645,0,doll,toys_games
+883,0,biography,books
+182,1,cushion,home_decor
+404,0,shoes,clothing
+786,0,puzzle,toys_games
+60,1,scarf,clothing
+915,1,wireless speaker,tech_gadgets
+645,0,clock,home_decor
+443,0,wireless speaker,tech_gadgets
+399,0,socks,clothing
+554,1,skincare,health_beauty
+858,1,VR headset,tech_gadgets
+890,0,fishing rod,sports_outdoors
+875,0,vase,home_decor
+845,1,safari,travel
+143,1,makeup,health_beauty
+129,0,t-shirt,clothing
+344,1,tent,sports_outdoors
+28,0,doll,toys_games
+568,0,clock,home_decor
+554,1,kayak,sports_outdoors
+984,0,spices,food
+890,1,building blocks,toys_games
+448,0,tea,food
+79,1,skateboard,sports_outdoors
+135,0,children's book,books
+184,0,self-help,books
+556,1,juice,food
+722,1,tablet,electronics
+582,1,fishing rod,sports_outdoors
+848,1,safari,travel
+836,0,drone,tech_gadgets
+118,0,printer,tech_gadgets
+958,0,painting,home_decor
+143,1,olive oil,food
+560,0,yoga mat,health_beauty
+435,1,vitamins,health_beauty
+904,0,travel insurance,travel
+94,0,yoga mat,health_beauty
+702,0,vase,home_decor
+234,0,hotel,travel
+817,1,wearable,electronics
+990,1,cruise,travel
+215,1,snacks,food
+612,0,tea,food
+493,0,gaming console,electronics
+91,1,poetry,books
+649,1,yoga mat,health_beauty
+867,0,wine,food
+238,0,GPS tracker,tech_gadgets
+398,1,jeans,clothing
+786,0,clock,home_decor
+335,1,gaming console,electronics
+440,0,painting,home_decor
+565,0,hair dryer,health_beauty
+272,1,t-shirt,clothing
+678,1,cookbook,books
+796,0,history,books
+499,0,doll,toys_games
+141,0,wearable,electronics
+849,0,dress,clothing
+79,1,hair dryer,health_beauty
+22,1,makeup,health_beauty
+98,0,vitamins,health_beauty
+277,0,skincare,health_beauty
+762,0,wearable,electronics
+796,0,wearable,electronics
+271,0,children's book,books
+335,0,cushion,home_decor
+143,0,camera,electronics
+491,0,laptop,electronics
+605,0,novel,books
+430,1,tablet,electronics
+605,0,razor,health_beauty
+904,1,travel insurance,travel
+502,1,perfume,health_beauty
+852,0,socks,clothing
+111,0,puzzle,toys_games
+714,0,backpack,sports_outdoors
+58,1,smartwatch,tech_gadgets
+810,0,coffee,food
+271,0,doll,toys_games
+191,1,puzzle,toys_games
+867,0,smartwatch,tech_gadgets
+814,0,headphones,electronics
+94,0,fiction,books
+48,1,printer,tech_gadgets
+98,1,gaming console,electronics
+182,1,gaming console,electronics
+833,1,binoculars,sports_outdoors
+867,1,vase,home_decor
+290,0,jacket,clothing
+483,0,plush toy,toys_games
+565,1,power bank,tech_gadgets
+566,1,self-help,books
+722,1,action figure,toys_games
+810,0,charger,electronics
+79,1,novel,books
+31,1,yoga mat,health_beauty
+443,1,action figure,toys_games
+22,1,smartwatch,tech_gadgets
+560,1,smartwatch,tech_gadgets
+948,1,travel insurance,travel
+129,0,GPS tracker,tech_gadgets
+899,1,card game,toys_games
+786,1,clock,home_decor
+786,1,cushion,home_decor
+931,1,tour,travel
+665,0,card game,toys_games
+904,1,remote control car,toys_games
+984,0,kayak,sports_outdoors
+141,0,coffee,food
+238,1,camera,electronics
+814,1,backpack,sports_outdoors
+227,1,biography,books
+527,0,smartphone,electronics
+48,1,charger,electronics
+990,0,flight,travel
+919,0,self-help,books
+609,1,hair dryer,health_beauty
+713,0,scarf,clothing
+986,1,smartwatch,tech_gadgets
+238,0,mirror,home_decor
+441,1,wireless speaker,tech_gadgets
+858,1,novel,books
+746,0,fishing rod,sports_outdoors
+79,0,biography,books
+872,1,makeup,health_beauty
+5,1,coffee,food
+667,0,dress,clothing
+164,0,poetry,books
+129,0,mirror,home_decor
+869,1,gaming console,electronics
+722,1,tea,food
+182,1,poetry,books
+382,0,perfume,health_beauty
+272,1,kayak,sports_outdoors
+243,1,rental car,travel
+829,1,spices,food
+883,0,history,books
+243,1,tent,sports_outdoors
+310,0,backpack,sports_outdoors
+378,1,jeans,clothing
+492,0,rental car,travel
+83,0,rug,home_decor
+344,1,perfume,health_beauty
+143,1,snacks,food
+143,1,smartwatch,tech_gadgets
+602,1,tent,sports_outdoors
+492,1,shoes,clothing
+875,0,tour,travel
+466,1,jacket,clothing
+554,1,wine,food
+761,0,socks,clothing
+875,1,puzzle,toys_games
+904,0,perfume,health_beauty
+990,0,t-shirt,clothing
+554,1,doll,toys_games
+817,1,fishing rod,sports_outdoors
+118,0,spices,food
+774,0,perfume,health_beauty
+422,0,perfume,health_beauty
+910,0,history,books
+247,1,spices,food
+91,0,cruise,travel
+589,0,novel,books
+989,0,hiking shoes,sports_outdoors
+79,1,skincare,health_beauty
+378,0,binoculars,sports_outdoors
+386,1,biography,books
+344,1,charger,electronics
+191,1,perfume,health_beauty
+111,0,shoes,clothing
+285,0,tea,food
+143,1,clock,home_decor
+118,0,socks,clothing
+645,0,puzzle,toys_games
+869,1,card game,toys_games
+785,0,snacks,food
+111,1,perfume,health_beauty
+487,0,razor,health_beauty
+554,1,smartwatch,tech_gadgets
+167,1,tablet,electronics
+309,0,vase,home_decor
+786,1,children's book,books
+491,0,perfume,health_beauty
+651,0,safari,travel
+293,0,skateboard,sports_outdoors
+451,0,wearable,electronics
+60,1,wearable,electronics
+441,1,plush toy,toys_games
+52,1,backpacker hostel,travel
+135,1,headphones,electronics
+182,0,doll,toys_games
+665,1,hotel,travel
+722,1,skincare,health_beauty
+480,0,wearable,electronics
+363,1,kayak,sports_outdoors
+831,0,smartwatch,tech_gadgets
+335,1,wireless speaker,tech_gadgets
+659,1,smartphone,electronics
+516,1,kayak,sports_outdoors
+267,1,laptop,electronics
+775,0,rental car,travel
+910,1,fiction,books
+794,0,shoes,clothing
+829,0,biography,books
+554,1,makeup,health_beauty
+568,1,cruise,travel
+990,1,biography,books
+918,0,clock,home_decor
+101,0,puzzle,toys_games
+949,1,card game,toys_games
+230,1,hair dryer,health_beauty
+242,0,jacket,clothing
+202,0,coffee,food
+378,1,remote control car,toys_games
+393,1,smartwatch,tech_gadgets
+5,0,cookbook,books
+454,0,drone,tech_gadgets
+324,1,headphones,electronics
+271,0,biography,books
+430,0,doll,toys_games
+999,1,juice,food
+317,1,snacks,food
+388,0,backpack,sports_outdoors
+360,0,charger,electronics
+554,1,olive oil,food
+988,1,hotel,travel
+388,0,smartphone,electronics
+139,0,fiction,books
+924,0,dress,clothing
+975,0,wine,food
+118,0,jeans,clothing
+702,1,makeup,health_beauty
+760,0,olive oil,food
+745,1,remote control car,toys_games
+338,0,board game,toys_games
+378,0,rental car,travel
+162,0,GPS tracker,tech_gadgets
+480,1,building blocks,toys_games
+472,0,fiction,books
+411,1,novel,books
+554,0,socks,clothing
+810,0,charger,electronics
+560,0,snacks,food
+537,0,building blocks,toys_games
+216,0,self-help,books
+902,0,puzzle,toys_games
+501,0,coffee,food
+910,0,safari,travel
+231,1,plush toy,toys_games
+837,0,t-shirt,clothing
+18,1,tablet,electronics
+984,0,cruise,travel
+984,1,perfume,health_beauty
+875,1,clock,home_decor
+722,1,razor,health_beauty
+256,0,backpacker hostel,travel
+271,1,flight,travel
+990,0,tablet,electronics
+22,0,laptop,electronics
+566,0,cookbook,books
+386,1,perfume,health_beauty
+202,0,sweater,clothing
+650,0,rug,home_decor
+21,0,hotel,travel
+143,0,tablet,electronics
+880,1,coffee,food
+899,0,tour,travel
+182,0,perfume,health_beauty
+837,0,mirror,home_decor
+182,0,clock,home_decor
+872,0,painting,home_decor
+268,0,dress,clothing
+597,0,furniture,home_decor
+579,0,vitamins,health_beauty
+129,1,cruise,travel
+154,0,dress,clothing
+399,0,bike,sports_outdoors
+238,1,skincare,health_beauty
+435,1,spices,food
+837,1,GPS tracker,tech_gadgets
+135,0,gaming console,electronics
+28,0,dress,clothing
+466,1,yoga mat,health_beauty
+772,1,coffee,food
+875,1,history,books
+8,1,puzzle,toys_games
+880,0,puzzle,toys_games
+709,0,spices,food
+398,1,sweater,clothing
+886,0,robot vacuum,tech_gadgets
+786,0,poetry,books
+481,1,safari,travel
+243,0,razor,health_beauty
+79,1,cushion,home_decor
+366,0,smartwatch,tech_gadgets
+869,0,tour,travel
+628,1,binoculars,sports_outdoors
+233,0,binoculars,sports_outdoors
+314,0,puzzle,toys_games
+519,1,safari,travel
+243,1,cushion,home_decor
+924,0,cushion,home_decor
+393,1,cruise,travel
+91,1,plush toy,toys_games
+336,1,cushion,home_decor
+645,0,robot vacuum,tech_gadgets
+554,1,flight,travel
+441,0,fiction,books
+567,1,cushion,home_decor
+83,0,tablet,electronics
+58,1,socks,clothing
+812,0,GPS tracker,tech_gadgets
+182,1,coffee,food
+216,1,skincare,health_beauty
+111,1,printer,tech_gadgets
+616,0,printer,tech_gadgets
+101,0,perfume,health_beauty
+931,0,drone,tech_gadgets
+872,0,doll,toys_games
+362,1,wearable,electronics
+94,1,mirror,home_decor
+91,0,fiction,books
+451,0,socks,clothing
+79,1,sweater,clothing
+711,0,flight,travel
+516,0,chocolate,food
+667,1,fiction,books
+243,1,painting,home_decor
+268,0,spices,food
+948,0,biography,books
+826,1,socks,clothing
+659,1,skincare,health_beauty
+735,0,toothbrush,health_beauty
+435,0,scarf,clothing
+143,0,cushion,home_decor
+247,1,tablet,electronics
+510,1,cookbook,books
+216,0,wearable,electronics
+79,1,hotel,travel
+904,1,biography,books
+106,1,makeup,health_beauty
+31,0,skateboard,sports_outdoors
+8,1,shoes,clothing
+388,0,fiction,books
+412,1,safari,travel
+705,0,painting,home_decor
+722,0,backpacker hostel,travel
+948,1,jeans,clothing
+326,1,smartphone,electronics
+709,1,building blocks,toys_games
+22,1,clock,home_decor
+269,1,smartphone,electronics
+440,0,jeans,clothing
+875,1,backpacker hostel,travel
+284,1,camera,electronics
+121,1,card game,toys_games
+271,0,skateboard,sports_outdoors
+600,1,GPS tracker,tech_gadgets
+760,0,toothbrush,health_beauty
+785,1,smartwatch,tech_gadgets
+291,1,tent,sports_outdoors
+848,0,headphones,electronics
+202,1,hiking shoes,sports_outdoors
+867,1,history,books
+772,0,wearable,electronics
+23,0,flight,travel
+867,1,binoculars,sports_outdoors
+990,1,coffee,food
+74,1,doll,toys_games
+805,1,wireless speaker,tech_gadgets
+914,0,wine,food
+775,0,travel insurance,travel
+94,0,board game,toys_games
+272,0,jeans,clothing
+182,1,jacket,clothing
+817,0,furniture,home_decor
+79,0,toothbrush,health_beauty
+285,1,dress,clothing
+261,1,camera,electronics
+872,0,tablet,electronics
+317,0,skincare,health_beauty
+243,1,action figure,toys_games
+612,0,kayak,sports_outdoors
+182,1,wireless speaker,tech_gadgets
+802,0,toothbrush,health_beauty
+878,1,children's book,books
+992,1,clock,home_decor
+167,1,lamp,home_decor
+252,1,tour,travel
+378,0,toothbrush,health_beauty
+487,1,rental car,travel
+469,0,tour,travel
+716,1,gaming console,electronics
+649,0,cruise,travel
+293,0,coffee,food
+910,1,hair dryer,health_beauty
+650,1,skateboard,sports_outdoors
+456,0,backpacker hostel,travel
+757,1,tea,food
+118,0,backpacker hostel,travel
+216,0,hair dryer,health_beauty
+252,1,hotel,travel
+290,0,laptop,electronics
+60,0,clock,home_decor
+714,0,yoga mat,health_beauty
+143,0,wireless speaker,tech_gadgets
+16,1,board game,toys_games
+757,0,tea,food
+203,1,yoga mat,health_beauty
+243,1,gaming console,electronics
+91,1,puzzle,toys_games
+325,1,hair dryer,health_beauty
+111,1,backpack,sports_outdoors
+8,1,dress,clothing
+59,1,backpack,sports_outdoors
+906,0,clock,home_decor
+481,1,printer,tech_gadgets
+714,0,action figure,toys_games
+164,0,backpacker hostel,travel
+243,0,history,books
+10,0,binoculars,sports_outdoors
+650,0,smartwatch,tech_gadgets
+803,1,GPS tracker,tech_gadgets
+69,1,flight,travel
+170,1,board game,toys_games
+778,0,fishing rod,sports_outdoors
+58,1,hiking shoes,sports_outdoors
+858,0,printer,tech_gadgets
+79,1,gaming console,electronics
+79,0,kayak,sports_outdoors
+746,1,backpack,sports_outdoors
+810,0,self-help,books
+481,0,yoga mat,health_beauty
+808,1,painting,home_decor
+493,1,headphones,electronics
+243,0,wearable,electronics
+685,0,tablet,electronics
+924,0,gaming console,electronics
+67,0,makeup,health_beauty
+891,1,wireless speaker,tech_gadgets
+79,0,charger,electronics
+457,0,jeans,clothing
+958,0,dress,clothing
+391,1,building blocks,toys_games
+826,1,juice,food
+665,1,drone,tech_gadgets
+408,1,vase,home_decor
+399,0,vitamins,health_beauty
+792,1,skincare,health_beauty
+667,0,skateboard,sports_outdoors
+271,0,painting,home_decor
+650,1,socks,clothing
+510,1,travel insurance,travel
+722,0,safari,travel
+513,0,skateboard,sports_outdoors
+910,0,wireless speaker,tech_gadgets
+867,1,history,books
+435,1,binoculars,sports_outdoors
+31,0,wireless speaker,tech_gadgets
+101,0,biography,books
+650,0,vase,home_decor
+605,0,printer,tech_gadgets
+997,0,charger,electronics
+154,0,hiking shoes,sports_outdoors
+645,1,puzzle,toys_games
+231,0,history,books
+63,1,robot vacuum,tech_gadgets
+867,0,robot vacuum,tech_gadgets
+510,0,tablet,electronics
+513,1,perfume,health_beauty
+481,1,action figure,toys_games
+11,1,mirror,home_decor
+66,1,cookbook,books
+992,1,skincare,health_beauty
+31,0,cruise,travel
+344,0,printer,tech_gadgets
+677,1,fiction,books
+848,1,mirror,home_decor
+91,0,drone,tech_gadgets
+495,0,camera,electronics
+477,1,perfume,health_beauty
+58,0,biography,books
+135,1,poetry,books
+711,0,razor,health_beauty
+666,0,chocolate,food
+238,0,hotel,travel
+502,1,flight,travel
+722,0,dress,clothing
+79,0,vase,home_decor
+135,0,plush toy,toys_games
+757,0,travel insurance,travel
+388,0,smartwatch,tech_gadgets
+875,0,printer,tech_gadgets
+873,1,vitamins,health_beauty
+335,0,gaming console,electronics
+120,0,tea,food
+324,0,poetry,books
+592,1,yoga mat,health_beauty
+648,1,robot vacuum,tech_gadgets
+238,0,dress,clothing
+393,0,jacket,clothing
+472,1,safari,travel
+267,1,sweater,clothing
+902,1,cookbook,books
+11,1,wearable,electronics
+398,1,scarf,clothing
+262,0,building blocks,toys_games
+949,0,scarf,clothing
+757,0,self-help,books
+803,1,makeup,health_beauty
+579,1,hiking shoes,sports_outdoors
+336,1,shoes,clothing
+452,1,socks,clothing
+961,0,makeup,health_beauty
+230,1,mirror,home_decor
+323,1,wireless speaker,tech_gadgets
+491,0,charger,electronics
+645,0,painting,home_decor
+677,0,olive oil,food
+422,1,gaming console,electronics
+999,1,socks,clothing
+111,0,dress,clothing
+722,1,wireless speaker,tech_gadgets
+711,1,printer,tech_gadgets
+167,0,camera,electronics
+554,1,poetry,books
+171,1,power bank,tech_gadgets
+104,1,scarf,clothing
+399,0,hotel,travel
+537,0,plush toy,toys_games
+417,1,chocolate,food
+738,1,history,books
+243,1,cookbook,books
+188,0,jacket,clothing
+659,0,wireless speaker,tech_gadgets
+205,0,doll,toys_games
+22,1,plush toy,toys_games
+271,0,t-shirt,clothing
+760,0,razor,health_beauty
+560,1,backpack,sports_outdoors
+117,0,drone,tech_gadgets
+845,1,vitamins,health_beauty
+335,1,snacks,food
+378,1,toothbrush,health_beauty
+537,0,backpack,sports_outdoors
+481,0,board game,toys_games
+826,1,dress,clothing
+182,0,yoga mat,health_beauty
+753,1,scarf,clothing
+869,1,camera,electronics
+481,0,lamp,home_decor
+839,1,cookbook,books
+867,1,wine,food
+808,0,olive oil,food
+143,1,tent,sports_outdoors
+8,1,wireless speaker,tech_gadgets
+388,1,printer,tech_gadgets
+338,1,rental car,travel
+702,0,olive oil,food
+746,1,rug,home_decor
+875,0,backpack,sports_outdoors
+745,0,jacket,clothing
+22,0,poetry,books
+390,0,novel,books
+808,1,travel insurance,travel
+910,0,hotel,travel
+203,1,GPS tracker,tech_gadgets
+990,0,travel insurance,travel
+182,1,plush toy,toys_games
+452,1,mirror,home_decor
+404,0,backpack,sports_outdoors
+875,0,wearable,electronics
+537,1,vitamins,health_beauty
+612,0,backpacker hostel,travel
+867,0,rug,home_decor
+918,1,wireless speaker,tech_gadgets
+388,0,headphones,electronics
+533,1,tablet,electronics
+999,1,rug,home_decor
+243,1,wine,food
+537,1,travel insurance,travel
+554,1,action figure,toys_games
+722,0,travel insurance,travel
+516,0,cruise,travel
+810,0,mirror,home_decor
+890,1,shoes,clothing
+858,1,power bank,tech_gadgets
+440,1,razor,health_beauty
+858,1,tent,sports_outdoors
+705,1,gaming console,electronics
+143,1,fishing rod,sports_outdoors
+398,1,cookbook,books
+507,0,cruise,travel
+399,0,wine,food
+79,1,VR headset,tech_gadgets
+649,0,shoes,clothing
+831,1,card game,toys_games
+757,0,flight,travel
+685,1,bike,sports_outdoors
+722,1,smartphone,electronics
+182,0,rental car,travel
+628,1,drone,tech_gadgets
+36,1,yoga mat,health_beauty
+880,1,binoculars,sports_outdoors
+931,1,VR headset,tech_gadgets
+11,1,poetry,books
+910,0,skateboard,sports_outdoors
+966,1,jeans,clothing
+650,0,flight,travel
+31,1,razor,health_beauty
+79,0,flight,travel
+481,0,remote control car,toys_games
+644,1,wireless speaker,tech_gadgets
+685,0,spices,food
+502,1,furniture,home_decor
+413,0,hair dryer,health_beauty
+79,0,rug,home_decor
+5,0,shoes,clothing
+129,0,snacks,food
+28,0,robot vacuum,tech_gadgets
+79,0,tea,food
+271,1,wireless speaker,tech_gadgets
+404,0,gaming console,electronics
+11,1,wireless speaker,tech_gadgets
+537,1,plush toy,toys_games
+644,1,smartphone,electronics
+537,0,yoga mat,health_beauty
+238,0,puzzle,toys_games
+435,1,toothbrush,health_beauty
+845,0,printer,tech_gadgets
+31,1,snacks,food
+620,1,toothbrush,health_beauty
+717,1,VR headset,tech_gadgets
+999,1,jacket,clothing
+786,1,t-shirt,clothing
+537,0,makeup,health_beauty
+589,1,tour,travel
+402,0,tablet,electronics
+31,0,tent,sports_outdoors
+947,1,toothbrush,health_beauty
+650,1,snacks,food
+314,1,laptop,electronics
+757,0,jeans,clothing
+948,1,puzzle,toys_games
+722,1,vitamins,health_beauty
+5,0,toothbrush,health_beauty
+49,0,smartphone,electronics
+154,0,makeup,health_beauty
+77,1,drone,tech_gadgets
+557,0,headphones,electronics
+243,0,jeans,clothing
+722,0,poetry,books
+858,1,yoga mat,health_beauty
+722,0,laptop,electronics
+645,1,kayak,sports_outdoors
+710,0,scarf,clothing
+268,0,olive oil,food
+220,1,cookbook,books
+990,0,novel,books
+753,1,wearable,electronics
+129,1,backpacker hostel,travel
+510,1,scarf,clothing
+736,1,GPS tracker,tech_gadgets
+786,0,shoes,clothing
+899,0,children's book,books
+227,1,skateboard,sports_outdoors
+537,1,tablet,electronics
+875,0,fiction,books
+332,1,drone,tech_gadgets
+858,1,vitamins,health_beauty
+610,0,tea,food
+11,1,dress,clothing
+388,1,olive oil,food
+605,0,gaming console,electronics
+507,0,power bank,tech_gadgets
+166,0,dress,clothing
+243,0,self-help,books
+810,1,novel,books
+203,1,camera,electronics
+527,1,toothbrush,health_beauty
+640,1,scarf,clothing
+31,1,board game,toys_games
+810,1,razor,health_beauty
+910,1,hotel,travel
+640,0,tea,food
+202,0,coffee,food
+243,0,binoculars,sports_outdoors
+441,0,bike,sports_outdoors
+94,0,tour,travel
+620,0,hotel,travel
+650,0,scarf,clothing
+77,0,laptop,electronics
+8,0,rug,home_decor
+23,1,fishing rod,sports_outdoors
+159,1,backpack,sports_outdoors
+875,1,bike,sports_outdoors
+986,1,vase,home_decor
+788,0,puzzle,toys_games
+817,0,gaming console,electronics
+875,0,self-help,books
+557,1,wine,food
+167,0,binoculars,sports_outdoors
+170,0,furniture,home_decor
+191,1,self-help,books
+500,0,vitamins,health_beauty
+904,1,chocolate,food
+778,0,binoculars,sports_outdoors
+537,0,backpack,sports_outdoors
+808,1,backpack,sports_outdoors
+118,0,puzzle,toys_games
+700,1,travel insurance,travel
+722,1,lamp,home_decor
+5,1,self-help,books
+417,0,rug,home_decor
+439,1,poetry,books
+990,0,razor,health_beauty
+890,0,olive oil,food
+500,1,VR headset,tech_gadgets
+502,1,headphones,electronics
+358,1,tour,travel
+27,0,painting,home_decor
+836,0,wireless speaker,tech_gadgets
+872,0,shoes,clothing
+143,1,socks,clothing
+94,1,hiking shoes,sports_outdoors
+958,0,wine,food
+441,0,GPS tracker,tech_gadgets
+101,0,wine,food
+910,1,snacks,food
+757,0,tour,travel
+79,0,smartwatch,tech_gadgets
+452,1,skateboard,sports_outdoors
+440,1,doll,toys_games
+602,1,tablet,electronics
+539,1,clock,home_decor
+682,0,wireless speaker,tech_gadgets
+267,0,rug,home_decor
+685,1,self-help,books
+31,1,painting,home_decor
+516,1,novel,books
+904,0,novel,books
+154,1,perfume,health_beauty
+665,0,novel,books
+875,0,history,books
+554,0,novel,books
+91,0,laptop,electronics
+36,1,children's book,books
+628,0,board game,toys_games
+106,0,kayak,sports_outdoors
+238,1,dress,clothing
+890,1,cruise,travel
+413,1,skincare,health_beauty
+722,1,juice,food
+600,1,socks,clothing
+182,1,backpack,sports_outdoors
+875,0,tea,food
+5,0,sweater,clothing
+502,0,rental car,travel
+510,0,action figure,toys_games
+11,1,vase,home_decor
+931,1,dress,clothing
+143,0,jeans,clothing
+500,0,hiking shoes,sports_outdoors
+875,1,mirror,home_decor
+788,1,snacks,food
+256,0,perfume,health_beauty
+31,0,wireless speaker,tech_gadgets
+202,1,snacks,food
+77,0,cookbook,books
+626,0,smartphone,electronics
+605,1,card game,toys_games
+399,0,gaming console,electronics
+616,0,poetry,books
+731,0,vitamins,health_beauty
+510,0,jacket,clothing
+851,0,action figure,toys_games
+268,1,history,books
+905,0,mirror,home_decor
+698,0,cookbook,books
+829,1,printer,tech_gadgets
+129,0,toothbrush,health_beauty
+8,1,travel insurance,travel
+645,1,fiction,books
+606,0,razor,health_beauty
+722,0,smartphone,electronics
+28,0,toothbrush,health_beauty
+810,1,skincare,health_beauty
+739,0,jeans,clothing
+891,1,board game,toys_games
+393,1,cushion,home_decor
+378,1,spices,food
+698,0,wine,food
+184,1,juice,food
+848,0,card game,toys_games
+101,1,olive oil,food
+378,0,puzzle,toys_games
+943,0,hair dryer,health_beauty
+363,1,t-shirt,clothing
+890,0,fishing rod,sports_outdoors
+399,0,toothbrush,health_beauty
+817,0,hiking shoes,sports_outdoors
+775,0,makeup,health_beauty
+378,1,hotel,travel
+593,1,juice,food
+775,0,GPS tracker,tech_gadgets
+487,0,novel,books
+247,1,kayak,sports_outdoors
+5,1,scarf,clothing
+867,0,tour,travel
+644,0,tablet,electronics
+309,0,children's book,books
+579,1,tent,sports_outdoors
+537,0,cruise,travel
+817,1,vase,home_decor
+943,0,vitamins,health_beauty
+314,1,jacket,clothing
+537,0,snacks,food
+129,1,razor,health_beauty
+291,1,wearable,electronics
+924,0,furniture,home_decor
+829,1,toothbrush,health_beauty
+291,0,jeans,clothing
+143,1,furniture,home_decor
+238,0,mirror,home_decor
+650,0,perfume,health_beauty
+650,0,robot vacuum,tech_gadgets
+919,0,wireless speaker,tech_gadgets
+502,0,tour,travel
+404,1,scarf,clothing
+118,0,headphones,electronics
+869,1,novel,books
+411,1,history,books
+31,0,furniture,home_decor
+731,0,fishing rod,sports_outdoors
+836,0,juice,food
+134,1,jeans,clothing
+310,1,headphones,electronics
+898,1,hiking shoes,sports_outdoors
+990,0,scarf,clothing
+875,1,wearable,electronics
+868,1,rug,home_decor
+444,1,charger,electronics
+481,0,yoga mat,health_beauty
+736,1,building blocks,toys_games
+796,1,chocolate,food
+628,0,smartwatch,tech_gadgets
+814,0,robot vacuum,tech_gadgets
+785,1,backpacker hostel,travel
+143,1,binoculars,sports_outdoors
+812,0,rug,home_decor
+792,1,printer,tech_gadgets
+417,0,children's book,books
+91,1,travel insurance,travel
+878,0,charger,electronics
+808,1,remote control car,toys_games
+411,0,hair dryer,health_beauty
+205,1,toothbrush,health_beauty
+278,0,poetry,books
+898,1,tablet,electronics
+285,1,vitamins,health_beauty
+910,0,kayak,sports_outdoors
+516,1,camera,electronics
+853,0,hotel,travel
+143,1,headphones,electronics
+492,0,snacks,food
+252,0,fishing rod,sports_outdoors
+378,1,jacket,clothing
+548,1,headphones,electronics
+761,1,smartwatch,tech_gadgets
+775,1,juice,food
+191,1,tea,food
+404,0,gaming console,electronics
+63,0,history,books
+746,1,skincare,health_beauty
+620,0,puzzle,toys_games
+439,0,fiction,books
+366,0,shoes,clothing
+568,0,olive oil,food
+722,1,dress,clothing
+79,0,plush toy,toys_games
+537,0,perfume,health_beauty
+645,0,skateboard,sports_outdoors
+711,0,puzzle,toys_games
+452,1,jacket,clothing
+8,0,spices,food
+898,0,vase,home_decor
+602,1,plush toy,toys_games
+59,0,cookbook,books
+905,1,scarf,clothing
+810,0,GPS tracker,tech_gadgets
+190,1,skincare,health_beauty
+852,0,children's book,books
+357,1,action figure,toys_games
+817,1,VR headset,tech_gadgets
+499,1,vase,home_decor
+291,0,printer,tech_gadgets
+243,0,skateboard,sports_outdoors
+757,0,snacks,food
+711,0,VR headset,tech_gadgets
+104,0,hiking shoes,sports_outdoors
+36,0,scarf,clothing
+722,0,safari,travel
+788,0,snacks,food
+118,0,flight,travel
+1,0,laptop,electronics
+36,0,toothbrush,health_beauty
+904,0,juice,food
+788,1,skincare,health_beauty
+500,0,hiking shoes,sports_outdoors
+118,0,clock,home_decor
+182,0,remote control car,toys_games
+831,1,smartwatch,tech_gadgets
+388,0,history,books
+678,1,poetry,books
+323,0,GPS tracker,tech_gadgets
+202,1,bike,sports_outdoors
+265,0,kayak,sports_outdoors
+417,1,razor,health_beauty
+293,0,novel,books
+203,1,cruise,travel
+37,0,children's book,books
+399,0,printer,tech_gadgets
+77,1,card game,toys_games
+167,1,vase,home_decor
+135,0,history,books
+935,1,rental car,travel
+335,1,olive oil,food
+910,1,shoes,clothing
+379,1,bike,sports_outdoors
+858,0,rug,home_decor
+960,0,smartphone,electronics
+95,0,dress,clothing
+355,0,socks,clothing
+167,0,hotel,travel
+620,1,jeans,clothing
+722,0,mirror,home_decor
+792,1,dress,clothing
+875,0,fiction,books
+480,1,dress,clothing
+48,1,charger,electronics
+745,1,camera,electronics
+793,1,backpack,sports_outdoors
+560,1,skateboard,sports_outdoors
+22,1,gaming console,electronics
+37,1,building blocks,toys_games
+905,0,spices,food
+402,1,puzzle,toys_games
+251,0,socks,clothing
+143,0,sweater,clothing
+709,1,cushion,home_decor
+899,0,cushion,home_decor
+515,1,travel insurance,travel
+448,0,mirror,home_decor
+627,1,bike,sports_outdoors
+191,1,vitamins,health_beauty
+182,0,sweater,clothing
+837,0,novel,books
+516,1,power bank,tech_gadgets
+291,1,cushion,home_decor
+228,0,camera,electronics
+98,1,yoga mat,health_beauty
+528,0,hair dryer,health_beauty
+422,0,tablet,electronics
+762,1,rental car,travel
+393,0,smartphone,electronics
+803,0,gaming console,electronics
+997,1,dress,clothing
+480,0,backpack,sports_outdoors
+973,0,chocolate,food
+650,1,jeans,clothing
+5,0,board game,toys_games
+378,0,backpacker hostel,travel
+479,0,plush toy,toys_games
+819,1,spices,food
+285,0,backpack,sports_outdoors
+975,0,scarf,clothing
+943,0,mirror,home_decor
+848,1,smartphone,electronics
+880,0,puzzle,toys_games
+303,1,poetry,books
+910,1,camera,electronics
+541,0,tea,food
+378,1,safari,travel
+905,0,fiction,books
+378,1,flight,travel
+510,0,lamp,home_decor
+786,1,sweater,clothing
+58,1,lamp,home_decor
+129,1,travel insurance,travel
+27,1,cookbook,books
+378,1,backpacker hostel,travel
+620,1,flight,travel
+869,1,fiction,books
+888,0,tablet,electronics
+232,1,hair dryer,health_beauty
+682,0,robot vacuum,tech_gadgets
+966,1,plush toy,toys_games
+216,0,vase,home_decor
+727,0,t-shirt,clothing
+722,0,clock,home_decor
+260,1,fishing rod,sports_outdoors
+645,1,makeup,health_beauty
+519,1,sweater,clothing
+129,1,snacks,food
+358,1,robot vacuum,tech_gadgets
+277,0,t-shirt,clothing
+855,1,wine,food
+989,0,olive oil,food
+36,1,rental car,travel
+516,1,GPS tracker,tech_gadgets
+271,0,smartphone,electronics
+899,1,wireless speaker,tech_gadgets
+135,1,self-help,books
+829,1,drone,tech_gadgets
+810,0,lamp,home_decor
+8,1,action figure,toys_games
+810,0,backpack,sports_outdoors
+143,0,history,books
+388,0,kayak,sports_outdoors
+989,1,novel,books
+91,1,sweater,clothing
+699,0,hotel,travel
+810,1,wine,food
+510,0,skateboard,sports_outdoors
+336,0,jacket,clothing
+891,1,socks,clothing
+746,1,card game,toys_games
+288,1,biography,books
+848,0,smartwatch,tech_gadgets
+441,0,painting,home_decor
+435,0,self-help,books
+267,1,GPS tracker,tech_gadgets
+153,1,rental car,travel
+399,0,drone,tech_gadgets
+238,0,headphones,electronics
+91,1,snacks,food
+391,0,tent,sports_outdoors
+216,0,wine,food
+59,0,drone,tech_gadgets
+997,1,novel,books
+746,1,mirror,home_decor
+793,0,kayak,sports_outdoors
+335,0,vase,home_decor
+79,1,charger,electronics
+404,1,tent,sports_outdoors
+663,0,tea,food
+910,1,novel,books
+77,1,binoculars,sports_outdoors
+910,1,clock,home_decor
+620,1,cushion,home_decor
+60,1,t-shirt,clothing
+554,0,rental car,travel
+216,0,safari,travel
+817,0,robot vacuum,tech_gadgets
+216,0,lamp,home_decor
+216,0,lamp,home_decor
+650,0,dress,clothing
+404,0,power bank,tech_gadgets
+11,0,hair dryer,health_beauty
+199,0,lamp,home_decor
+466,1,VR headset,tech_gadgets
+568,1,tea,food
+307,1,printer,tech_gadgets
+810,1,skincare,health_beauty
+309,0,scarf,clothing
+682,0,cushion,home_decor
+79,1,scarf,clothing
+689,0,building blocks,toys_games
+452,0,flight,travel
+645,1,snacks,food
+778,0,furniture,home_decor
+404,1,doll,toys_games
+925,0,remote control car,toys_games
+66,1,puzzle,toys_games
+974,1,smartphone,electronics
+88,0,camera,electronics
+243,0,dress,clothing
+648,0,board game,toys_games
+162,0,socks,clothing
+812,1,cushion,home_decor
+25,1,makeup,health_beauty
+8,1,laptop,electronics
+794,1,puzzle,toys_games
+238,0,makeup,health_beauty
+958,0,chocolate,food
+135,1,lamp,home_decor
+401,0,bike,sports_outdoors
+268,1,makeup,health_beauty
+454,0,t-shirt,clothing
+648,0,flight,travel
+262,1,bike,sports_outdoors
+516,0,jacket,clothing
+143,1,cookbook,books
+677,1,GPS tracker,tech_gadgets
+268,1,mirror,home_decor
+620,1,socks,clothing
+399,1,plush toy,toys_games
+793,1,kayak,sports_outdoors
+417,0,tent,sports_outdoors
+435,1,VR headset,tech_gadgets
+722,1,shoes,clothing
+910,0,jeans,clothing
+310,1,rental car,travel
+221,0,tour,travel
+560,0,kayak,sports_outdoors
+314,1,charger,electronics
+554,0,vase,home_decor
+711,0,snacks,food
+848,1,safari,travel
+238,1,travel insurance,travel
+963,0,dress,clothing
+554,0,printer,tech_gadgets
+872,1,puzzle,toys_games
+309,0,socks,clothing
+875,0,vitamins,health_beauty
+775,1,tea,food
+216,1,tour,travel
+243,0,fiction,books
+902,1,makeup,health_beauty
+848,1,snacks,food
+500,0,cookbook,books
+557,1,kayak,sports_outdoors
+753,1,printer,tech_gadgets
+143,1,tablet,electronics
+898,0,toothbrush,health_beauty
+905,1,puzzle,toys_games
+535,0,tour,travel
+722,0,snacks,food
+852,0,GPS tracker,tech_gadgets
+682,0,headphones,electronics
+557,1,toothbrush,health_beauty
+804,1,lamp,home_decor
+79,0,rental car,travel
+554,1,tablet,electronics
+143,1,robot vacuum,tech_gadgets
+644,1,printer,tech_gadgets
+924,0,perfume,health_beauty
+868,1,headphones,electronics
+848,0,laptop,electronics
+443,1,chocolate,food
+528,1,yoga mat,health_beauty
+35,1,olive oil,food
+435,1,backpack,sports_outdoors
+535,1,robot vacuum,tech_gadgets
+143,0,VR headset,tech_gadgets
+83,0,wearable,electronics
+990,0,dress,clothing
+554,1,backpacker hostel,travel
+910,1,history,books
+845,1,hotel,travel
+808,1,tent,sports_outdoors
+757,1,flight,travel
+817,0,scarf,clothing
+271,0,skincare,health_beauty
+91,1,safari,travel
+786,1,furniture,home_decor
+803,1,backpacker hostel,travel
+878,1,painting,home_decor
+984,0,spices,food
+990,1,olive oil,food
+746,1,children's book,books
+221,0,vitamins,health_beauty
+786,1,headphones,electronics
+990,0,drone,tech_gadgets
+5,0,VR headset,tech_gadgets
+753,1,drone,tech_gadgets
+135,1,robot vacuum,tech_gadgets
+399,1,flight,travel
+958,1,novel,books
+711,0,socks,clothing
+620,0,poetry,books
+132,1,rug,home_decor
+268,0,biography,books
+118,1,coffee,food
+533,1,sweater,clothing
+448,0,action figure,toys_games
+645,0,vitamins,health_beauty
+491,0,smartwatch,tech_gadgets
+837,0,vitamins,health_beauty
+404,1,vase,home_decor
+722,0,drone,tech_gadgets
+52,1,skincare,health_beauty
+310,1,printer,tech_gadgets
+958,0,smartphone,electronics
+775,1,plush toy,toys_games
+988,1,bike,sports_outdoors
+118,0,GPS tracker,tech_gadgets
+510,0,mirror,home_decor
+493,1,furniture,home_decor
+243,0,tablet,electronics
+79,0,coffee,food
+810,0,smartwatch,tech_gadgets
+309,0,binoculars,sports_outdoors
+568,0,wearable,electronics
+238,0,board game,toys_games
+492,1,poetry,books
+8,0,dress,clothing
+238,0,power bank,tech_gadgets
+291,0,plush toy,toys_games
+94,1,flight,travel
+995,1,tent,sports_outdoors
+786,0,razor,health_beauty
+974,0,toothbrush,health_beauty
+890,1,razor,health_beauty
+686,0,charger,electronics
+293,0,power bank,tech_gadgets
+448,0,skateboard,sports_outdoors
+837,1,shoes,clothing
+8,1,children's book,books
+191,0,smartphone,electronics
+98,0,spices,food
+786,0,hair dryer,health_beauty
+709,0,painting,home_decor
+378,1,camera,electronics
+516,0,scarf,clothing
+568,0,perfume,health_beauty
+556,0,toothbrush,health_beauty
+387,0,card game,toys_games
+480,1,robot vacuum,tech_gadgets
+8,1,headphones,electronics
+899,1,t-shirt,clothing
+216,0,wearable,electronics
+867,0,robot vacuum,tech_gadgets
+272,1,scarf,clothing
+242,0,headphones,electronics
+837,1,card game,toys_games
+713,1,wine,food
+404,0,binoculars,sports_outdoors
+782,1,vitamins,health_beauty
+722,0,painting,home_decor
+649,1,mirror,home_decor
+875,1,vase,home_decor
+659,1,painting,home_decor
+129,1,scarf,clothing
+118,0,action figure,toys_games
+435,0,hotel,travel
+810,1,poetry,books
+788,0,hotel,travel
+243,0,puzzle,toys_games
+803,0,jacket,clothing
+705,1,yoga mat,health_beauty
+867,0,skateboard,sports_outdoors
+845,0,t-shirt,clothing
+118,0,rug,home_decor
+709,1,binoculars,sports_outdoors
+650,1,travel insurance,travel
+535,0,self-help,books
+290,1,yoga mat,health_beauty
+873,0,GPS tracker,tech_gadgets
+79,0,novel,books
+474,0,chocolate,food
+875,0,tablet,electronics
+353,1,VR headset,tech_gadgets
+98,0,bike,sports_outdoors
+469,0,rental car,travel
+404,1,fishing rod,sports_outdoors
+335,1,board game,toys_games
+753,1,doll,toys_games
+902,0,biography,books
+79,0,sweater,clothing
+79,0,puzzle,toys_games
+875,1,flight,travel
+154,0,wine,food
+143,1,vitamins,health_beauty
+164,1,coffee,food
+143,0,smartwatch,tech_gadgets
+310,1,makeup,health_beauty
+827,0,building blocks,toys_games
+451,1,robot vacuum,tech_gadgets
+243,0,remote control car,toys_games
+58,1,yoga mat,health_beauty
+491,0,wearable,electronics
+554,1,snacks,food
+48,0,razor,health_beauty
+129,0,skincare,health_beauty
+650,1,clock,home_decor
+875,0,jacket,clothing
+722,0,plush toy,toys_games
+189,1,wine,food
+648,1,travel insurance,travel
+649,0,furniture,home_decor
+648,0,lamp,home_decor
+481,0,kayak,sports_outdoors
+890,1,olive oil,food
+746,0,tour,travel
+760,0,cushion,home_decor
+943,0,yoga mat,health_beauty
+975,1,plush toy,toys_games
+216,1,lamp,home_decor
+135,0,self-help,books
+272,1,scarf,clothing
+412,0,robot vacuum,tech_gadgets
+904,1,doll,toys_games
+810,0,headphones,electronics
+872,0,hair dryer,health_beauty
+648,1,furniture,home_decor
+94,0,hair dryer,health_beauty
+129,1,hair dryer,health_beauty
+182,0,rug,home_decor
+627,1,jacket,clothing
+938,1,flight,travel
+567,0,novel,books
+510,0,card game,toys_games
+814,1,cookbook,books
+620,1,spices,food
+143,1,scarf,clothing
+554,1,socks,clothing
+605,1,vase,home_decor
+491,1,cruise,travel
+898,1,backpacker hostel,travel
+796,0,fiction,books
+910,1,gaming console,electronics
+746,0,olive oil,food
+77,0,spices,food
+445,1,jacket,clothing
+649,1,yoga mat,health_beauty
+899,0,jeans,clothing
+166,0,skincare,health_beauty
+989,0,hiking shoes,sports_outdoors
+548,0,sweater,clothing
+817,0,skateboard,sports_outdoors
+8,0,coffee,food
+339,1,laptop,electronics
+858,0,novel,books
+252,1,drone,tech_gadgets
+162,1,clock,home_decor
+79,1,GPS tracker,tech_gadgets
+722,1,snacks,food
+796,0,coffee,food
+469,0,juice,food
+136,1,clock,home_decor
+91,0,robot vacuum,tech_gadgets
+143,1,toothbrush,health_beauty
+447,0,flight,travel
+22,0,hotel,travel
+60,0,jacket,clothing
+38,1,dress,clothing
+58,0,hair dryer,health_beauty
+203,1,laptop,electronics
+156,1,vase,home_decor
+159,0,travel insurance,travel
+746,0,wearable,electronics
+685,0,hotel,travel
+141,0,bike,sports_outdoors
+867,1,biography,books
+79,1,socks,clothing
+59,1,cookbook,books
+403,0,lamp,home_decor
+568,1,skincare,health_beauty
+146,1,smartwatch,tech_gadgets
+172,1,board game,toys_games
+5,1,skincare,health_beauty
+135,0,backpack,sports_outdoors
+191,0,chocolate,food
+796,1,olive oil,food
+382,1,coffee,food
+620,1,chocolate,food
+567,0,skateboard,sports_outdoors
+378,0,razor,health_beauty
+135,0,cookbook,books
+931,0,tea,food
+328,1,snacks,food
+592,1,backpack,sports_outdoors
+262,1,building blocks,toys_games
+986,1,board game,toys_games
+839,1,shoes,clothing
+821,1,building blocks,toys_games
+98,1,rental car,travel
+68,1,bike,sports_outdoors
+5,0,fiction,books
+711,0,backpack,sports_outdoors
+169,1,hair dryer,health_beauty
+837,1,vitamins,health_beauty
+788,0,printer,tech_gadgets
+238,1,cruise,travel
+709,1,remote control car,toys_games
+65,1,self-help,books
+129,0,vase,home_decor
+91,1,olive oil,food
+998,1,tea,food
+77,1,rug,home_decor
+427,1,hotel,travel
+353,1,dress,clothing
+307,0,jeans,clothing
+682,0,safari,travel
+702,1,wearable,electronics
+184,1,children's book,books
+22,1,GPS tracker,tech_gadgets
+848,0,tea,food
+502,0,t-shirt,clothing
+243,0,robot vacuum,tech_gadgets
+845,0,remote control car,toys_games
+243,0,spices,food
+890,1,shoes,clothing
+243,0,self-help,books
+557,0,scarf,clothing
+27,1,plush toy,toys_games
+220,0,backpacker hostel,travel
+837,1,toothbrush,health_beauty
+786,1,shoes,clothing
+537,0,tour,travel
+803,1,rug,home_decor
+404,1,history,books
+867,1,hotel,travel
+335,1,travel insurance,travel
+182,1,safari,travel
+267,1,rug,home_decor
+796,0,snacks,food
+336,0,smartwatch,tech_gadgets
+650,1,children's book,books
+49,0,chocolate,food
+443,0,painting,home_decor
+243,1,card game,toys_games
+154,1,board game,toys_games
+143,1,tent,sports_outdoors
+36,1,wireless speaker,tech_gadgets
+143,1,board game,toys_games
+91,1,puzzle,toys_games
+796,1,painting,home_decor
+717,0,fiction,books
+388,0,clock,home_decor
+786,0,jeans,clothing
+645,1,wearable,electronics
+890,0,chocolate,food
+378,1,vase,home_decor
+63,1,furniture,home_decor
+988,0,shoes,clothing
+849,0,dress,clothing
+788,1,hiking shoes,sports_outdoors
+440,0,t-shirt,clothing
+554,0,smartphone,electronics
+202,1,tea,food
+786,1,printer,tech_gadgets
+540,1,yoga mat,health_beauty
+129,0,coffee,food
+404,0,self-help,books
+162,1,backpacker hostel,travel
+252,1,smartwatch,tech_gadgets
+260,1,gaming console,electronics
+94,0,fishing rod,sports_outdoors
+135,1,painting,home_decor
+342,0,socks,clothing
+390,0,fishing rod,sports_outdoors
+154,0,travel insurance,travel
+992,1,GPS tracker,tech_gadgets
+152,1,smartwatch,tech_gadgets
+413,0,biography,books
+267,1,smartphone,electronics
+256,1,lamp,home_decor
+620,0,card game,toys_games
+445,1,power bank,tech_gadgets
+335,1,board game,toys_games
+645,1,socks,clothing
+560,0,building blocks,toys_games
+648,0,safari,travel
+111,1,tea,food
+79,1,rug,home_decor
+845,1,painting,home_decor
+548,1,tour,travel
+79,1,shoes,clothing
+412,1,furniture,home_decor
+129,0,building blocks,toys_games
+410,1,remote control car,toys_games
+20,1,cruise,travel
+829,0,sweater,clothing
+958,0,hiking shoes,sports_outdoors
+196,1,spices,food
+904,0,toothbrush,health_beauty
+91,0,chocolate,food
+988,0,board game,toys_games
+756,0,hair dryer,health_beauty
+796,1,card game,toys_games
+943,0,board game,toys_games
+510,0,tent,sports_outdoors
+905,0,plush toy,toys_games
+510,0,building blocks,toys_games
+689,0,travel insurance,travel
+31,1,skincare,health_beauty
+404,1,dress,clothing
+775,0,scarf,clothing
+83,1,VR headset,tech_gadgets
+837,1,toothbrush,health_beauty
+430,0,power bank,tech_gadgets
+943,0,flight,travel
+5,0,juice,food
+788,1,vitamins,health_beauty
+388,0,skincare,health_beauty
+810,1,spices,food
+31,1,skincare,health_beauty
+5,0,vitamins,health_beauty
+973,1,doll,toys_games
+11,0,juice,food
+220,1,painting,home_decor
+66,0,cushion,home_decor
+79,1,card game,toys_games
+869,0,safari,travel
+143,0,scarf,clothing
+683,1,wireless speaker,tech_gadgets
+899,0,wearable,electronics
+378,0,scarf,clothing
+5,1,doll,toys_games
+537,0,gaming console,electronics
+238,1,dress,clothing
+8,1,camera,electronics
+58,0,children's book,books
+238,0,chocolate,food
+281,0,socks,clothing
+267,0,spices,food
+566,1,headphones,electronics
+527,1,cookbook,books
+272,1,jeans,clothing
+314,1,children's book,books
+454,0,flight,travel
+722,1,smartphone,electronics
+650,1,yoga mat,health_beauty
+79,0,plush toy,toys_games
+910,1,jeans,clothing
+617,1,novel,books
+441,0,smartphone,electronics
+469,1,power bank,tech_gadgets
+677,1,GPS tracker,tech_gadgets
+869,1,yoga mat,health_beauty
+915,0,tablet,electronics
+804,1,olive oil,food
+314,1,jeans,clothing
+469,0,novel,books
+159,1,chocolate,food
+722,0,juice,food
+975,0,fiction,books
+990,0,cushion,home_decor
+203,1,card game,toys_games
+722,0,painting,home_decor
+106,1,cookbook,books
+98,0,t-shirt,clothing
+182,0,remote control car,toys_games
+350,0,yoga mat,health_beauty
+709,0,skateboard,sports_outdoors
+575,0,biography,books
+203,1,hotel,travel
+307,1,VR headset,tech_gadgets
+342,1,plush toy,toys_games
+8,1,t-shirt,clothing
+79,0,spices,food
+11,0,vitamins,health_beauty
+310,1,olive oil,food
+60,0,makeup,health_beauty
+837,1,drone,tech_gadgets
+191,0,safari,travel
+722,1,hair dryer,health_beauty
+554,0,building blocks,toys_games
+943,1,drone,tech_gadgets
+963,0,building blocks,toys_games
+22,0,vitamins,health_beauty
+271,0,rug,home_decor
+221,1,olive oil,food
+118,1,laptop,electronics
+210,1,tea,food
+804,1,clock,home_decor
+786,1,cushion,home_decor
+714,0,scarf,clothing
+164,1,fiction,books
+344,1,bike,sports_outdoors
+616,0,chocolate,food
+943,0,cushion,home_decor
+886,1,vase,home_decor
+810,0,coffee,food
+852,1,binoculars,sports_outdoors
+11,0,juice,food
+441,0,wine,food
+666,1,poetry,books
+702,1,scarf,clothing
+31,1,robot vacuum,tech_gadgets
+817,0,scarf,clothing
+129,0,smartphone,electronics
+802,1,chocolate,food
+793,0,tea,food
+182,0,jacket,clothing
+31,0,GPS tracker,tech_gadgets
+79,1,printer,tech_gadgets
+817,0,tablet,electronics
+363,0,shoes,clothing
+182,1,jeans,clothing
+910,1,sweater,clothing
+568,1,biography,books
+868,0,drone,tech_gadgets
+203,1,clock,home_decor
+394,0,tent,sports_outdoors
+873,1,building blocks,toys_games
+182,0,skateboard,sports_outdoors
+990,0,robot vacuum,tech_gadgets
+135,1,board game,toys_games
+77,1,bike,sports_outdoors
+645,1,sweater,clothing
+810,0,makeup,health_beauty
+510,1,dress,clothing
+8,0,travel insurance,travel
+788,1,power bank,tech_gadgets
+890,1,spices,food
+500,1,backpacker hostel,travel
+243,0,tour,travel
+722,1,rug,home_decor
+480,1,socks,clothing
+688,1,chocolate,food
+94,1,tea,food
+390,0,board game,toys_games
+614,1,charger,electronics
+143,1,mirror,home_decor
+872,1,plush toy,toys_games
+378,1,drone,tech_gadgets
+399,1,printer,tech_gadgets
+143,1,poetry,books
+260,1,yoga mat,health_beauty
+602,1,vase,home_decor
+775,0,kayak,sports_outdoors
+554,1,charger,electronics
+554,1,self-help,books
+225,0,scarf,clothing
+988,0,novel,books
+30,1,skateboard,sports_outdoors
+310,0,scarf,clothing
+716,1,wearable,electronics
+910,0,binoculars,sports_outdoors
+227,0,board game,toys_games
+417,1,plush toy,toys_games
+554,1,building blocks,toys_games
+537,1,binoculars,sports_outdoors
+875,0,self-help,books
+808,0,skateboard,sports_outdoors
+513,0,jeans,clothing
+129,0,hiking shoes,sports_outdoors
+314,0,flight,travel
+867,1,history,books
+335,0,robot vacuum,tech_gadgets
+837,1,VR headset,tech_gadgets
+65,1,wireless speaker,tech_gadgets
+216,1,children's book,books
+592,1,camera,electronics
+666,1,history,books
+831,0,poetry,books
+91,0,VR headset,tech_gadgets
+31,1,mirror,home_decor
+872,0,camera,electronics
+751,1,robot vacuum,tech_gadgets
+196,0,olive oil,food
+722,1,scarf,clothing
+510,1,power bank,tech_gadgets
+95,1,makeup,health_beauty
+650,1,plush toy,toys_games
+507,1,cruise,travel
+509,1,toothbrush,health_beauty
+757,0,charger,electronics
+593,0,hiking shoes,sports_outdoors
+492,1,binoculars,sports_outdoors
+288,1,coffee,food
+27,1,wine,food
+537,0,camera,electronics
+567,1,furniture,home_decor
+905,1,binoculars,sports_outdoors
+443,0,plush toy,toys_games
+481,1,cruise,travel
+792,1,cruise,travel
+50,1,makeup,health_beauty
+644,0,fishing rod,sports_outdoors
+262,1,skincare,health_beauty
+79,0,smartwatch,tech_gadgets
+755,1,kayak,sports_outdoors
+336,0,wireless speaker,tech_gadgets
+203,1,coffee,food
+231,1,smartphone,electronics
+60,1,snacks,food
+554,0,novel,books
+388,0,doll,toys_games
+600,1,yoga mat,health_beauty
+910,0,flight,travel
+910,0,hotel,travel
+605,1,wine,food
+999,0,building blocks,toys_games
+5,0,tea,food
+808,1,laptop,electronics
+612,0,dress,clothing
+817,0,hair dryer,health_beauty
+182,0,robot vacuum,tech_gadgets
+910,0,smartphone,electronics
+269,0,cruise,travel
+858,0,headphones,electronics
+853,0,building blocks,toys_games
+645,0,yoga mat,health_beauty
+129,1,puzzle,toys_games
+872,0,chocolate,food
+507,1,tablet,electronics
+272,0,tent,sports_outdoors
+79,1,biography,books
+537,0,fiction,books
+118,0,tea,food
+554,0,smartphone,electronics
+481,0,hiking shoes,sports_outdoors
+612,0,bike,sports_outdoors
+252,0,cookbook,books
+271,1,skateboard,sports_outdoors
+363,0,perfume,health_beauty
+480,0,laptop,electronics
+899,0,scarf,clothing
+66,1,wireless speaker,tech_gadgets
+510,0,smartphone,electronics
+645,0,rental car,travel
+829,1,rental car,travel
+355,0,power bank,tech_gadgets
+411,0,clock,home_decor
+731,0,lamp,home_decor
+605,1,poetry,books
+702,1,makeup,health_beauty
+682,1,vitamins,health_beauty
+11,1,wine,food
+182,0,safari,travel
+11,0,VR headset,tech_gadgets
+867,1,wireless speaker,tech_gadgets
+153,1,yoga mat,health_beauty
+836,1,razor,health_beauty
+796,1,biography,books
+617,1,action figure,toys_games
+716,1,vase,home_decor
+782,0,puzzle,toys_games
+836,0,tour,travel
+722,1,history,books
+890,0,yoga mat,health_beauty
+66,1,scarf,clothing
+417,0,camera,electronics
+809,0,puzzle,toys_games
+984,0,cruise,travel
+101,1,t-shirt,clothing
+143,0,t-shirt,clothing
+554,0,smartphone,electronics
+510,0,VR headset,tech_gadgets
+796,1,printer,tech_gadgets
+79,1,makeup,health_beauty
+79,1,chocolate,food
+251,1,jeans,clothing
+613,1,fiction,books
+63,0,snacks,food
+65,0,hiking shoes,sports_outdoors
+975,1,snacks,food
+74,1,backpacker hostel,travel
+650,1,yoga mat,health_beauty
+466,1,safari,travel
+659,0,binoculars,sports_outdoors
+31,0,backpack,sports_outdoors
+243,1,smartphone,electronics
+231,0,charger,electronics
+79,1,VR headset,tech_gadgets
+975,1,tea,food
+182,1,snacks,food
+620,1,flight,travel
+858,0,olive oil,food
+755,1,kayak,sports_outdoors
+426,0,shoes,clothing
+378,1,laptop,electronics
+243,0,history,books
+838,1,furniture,home_decor
+199,0,smartwatch,tech_gadgets
+537,0,novel,books
+91,0,cruise,travel
+362,1,plush toy,toys_games
+958,1,mirror,home_decor
+890,0,hotel,travel
+166,1,printer,tech_gadgets
+958,0,building blocks,toys_games
+291,1,safari,travel
+904,0,snacks,food
+243,1,doll,toys_games
+31,1,tablet,electronics
+202,0,building blocks,toys_games
+350,1,charger,electronics
+535,0,drone,tech_gadgets
+600,0,shoes,clothing
+722,0,cruise,travel
+645,1,skincare,health_beauty
+66,0,t-shirt,clothing
+170,0,novel,books
+66,1,jacket,clothing
+902,0,wine,food
+79,1,skincare,health_beauty
+745,0,socks,clothing
+713,1,furniture,home_decor
+727,1,kayak,sports_outdoors
+271,0,remote control car,toys_games
+910,0,lamp,home_decor
+98,1,backpacker hostel,travel
+627,0,smartwatch,tech_gadgets
+411,0,rug,home_decor
+722,1,perfume,health_beauty
+252,1,painting,home_decor
+682,1,rug,home_decor
+481,0,headphones,electronics
+829,1,drone,tech_gadgets
+666,1,printer,tech_gadgets
+440,1,jeans,clothing
+310,0,socks,clothing
+335,0,yoga mat,health_beauty
+481,1,lamp,home_decor
+243,1,skincare,health_beauty
+519,0,toothbrush,health_beauty
+417,1,sweater,clothing
+143,1,sweater,clothing
+182,1,rental car,travel
+839,0,skincare,health_beauty
+441,0,furniture,home_decor
+621,1,novel,books
+799,0,olive oil,food
+722,1,action figure,toys_games
+904,1,spices,food
+478,1,plush toy,toys_games
+491,0,wearable,electronics
+554,1,drone,tech_gadgets
+143,1,binoculars,sports_outdoors
+58,0,hiking shoes,sports_outdoors
+745,1,wearable,electronics
+677,1,biography,books
+722,1,vase,home_decor
+645,0,chocolate,food
+216,0,hiking shoes,sports_outdoors
+502,0,laptop,electronics
+79,0,vitamins,health_beauty
+966,1,socks,clothing
+37,0,laptop,electronics
+451,1,snacks,food
+199,1,rug,home_decor
+271,0,tour,travel
+716,1,painting,home_decor
+141,1,sweater,clothing
+593,1,smartphone,electronics
+786,0,rental car,travel
+271,0,olive oil,food
+252,1,jeans,clothing
+537,0,board game,toys_games
+452,1,backpack,sports_outdoors
+202,0,yoga mat,health_beauty
+167,1,hiking shoes,sports_outdoors
+591,0,skateboard,sports_outdoors
+516,1,VR headset,tech_gadgets
+162,1,hair dryer,health_beauty
+11,0,poetry,books
+853,0,jacket,clothing
+399,0,painting,home_decor
+711,0,charger,electronics
+388,1,doll,toys_games
+417,1,robot vacuum,tech_gadgets
+335,0,cruise,travel
+79,1,self-help,books
+803,1,remote control car,toys_games
+515,1,hotel,travel
+602,0,spices,food
+91,0,kayak,sports_outdoors
+821,0,t-shirt,clothing
+432,1,painting,home_decor
+554,1,kayak,sports_outdoors
+756,1,skincare,health_beauty
+5,1,cushion,home_decor
+5,1,hiking shoes,sports_outdoors
+527,1,tour,travel
+810,0,self-help,books
+94,0,skateboard,sports_outdoors
+554,0,laptop,electronics
+399,0,plush toy,toys_games
+943,0,wine,food
+290,1,razor,health_beauty
+59,0,jeans,clothing
+628,1,juice,food
+444,0,board game,toys_games
+344,1,cruise,travel
+129,1,scarf,clothing
+65,1,gaming console,electronics
+474,0,board game,toys_games
+931,1,coffee,food
+727,0,snacks,food
+606,1,plush toy,toys_games
+404,1,children's book,books
+220,1,cruise,travel
+796,0,perfume,health_beauty
+645,1,hiking shoes,sports_outdoors
+91,0,card game,toys_games
+268,1,dress,clothing
+931,0,backpacker hostel,travel
+627,1,rental car,travel
+858,0,cushion,home_decor
+439,0,fiction,books
+786,1,hair dryer,health_beauty
+659,1,rug,home_decor
+872,1,safari,travel
+722,1,doll,toys_games
+391,1,laptop,electronics
+104,1,smartwatch,tech_gadgets
+404,1,charger,electronics
+817,1,backpacker hostel,travel
+481,0,furniture,home_decor
+506,1,backpacker hostel,travel
+98,1,juice,food
+355,1,hair dryer,health_beauty
+8,1,puzzle,toys_games
+848,1,sweater,clothing
+500,1,history,books
+943,0,cruise,travel
+143,1,building blocks,toys_games
+36,1,spices,food
+8,0,fiction,books
+836,0,tour,travel
+163,1,laptop,electronics
+645,1,gaming console,electronics
+891,0,dress,clothing
+220,0,clock,home_decor
+141,1,printer,tech_gadgets
+910,1,rug,home_decor
+210,0,cookbook,books
+829,0,wine,food
+335,1,hiking shoes,sports_outdoors
+975,1,rental car,travel
+202,1,perfume,health_beauty
+638,1,spices,food
+990,1,hair dryer,health_beauty
+135,1,power bank,tech_gadgets
+417,0,juice,food
